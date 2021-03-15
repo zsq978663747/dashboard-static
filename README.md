@@ -1,4 +1,4 @@
-# dashboard-static
+# The dashboard for the Apron Network
 
 Here is the dashboard for Apron Network prototype.  
 
